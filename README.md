@@ -6,7 +6,7 @@ awesome datascience Python. :snake:
 Passos iniciais:
 * [Telegram - Data Science & Python](https://t.me/datasciencepython)
 * [Como Fazer Perguntas Inteligentes](http://wiki.python.org.br/ComoFazerPerguntasInteligentes)
-* [Introdução à Programação com Python - 2ª Edição](https://novatec.com.br/livros/introducao-python-2ed/)
+* [Introdução à Programação com Python - 2ª Edição](https://www.amazon.com.br/gp/product/8575224085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575224085&linkCode=as2&tag=livropython-20)
 
 ---
 
@@ -32,7 +32,7 @@ Passos iniciais:
 | Number | Name |  Author | 
 | :---: | :--- | :---: | 
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html)| `Paul Barry` |
-| 02 | [Introdução à Programação com Python - 2ª Edição](https://novatec.com.br/livros/introducao-python-2ed/)| `Nilo Ney Coutinho Menezes` |
+| 02 | [Introdução à Programação com Python - 2ª Edição](https://www.amazon.com.br/gp/product/8575224085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575224085&linkCode=as2&tag=livropython-20)| `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| `Al Sweigart` |
 
 ## Courses
