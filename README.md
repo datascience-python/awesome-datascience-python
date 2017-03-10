@@ -7,6 +7,7 @@ Passos iniciais:
 * [Telegram - Data Science & Python](https://t.me/datasciencepython)
 * [Como Fazer Perguntas Inteligentes](http://wiki.python.org.br/ComoFazerPerguntasInteligentes)
 * [Introdução à Programação com Python - 2ª Edição](https://www.amazon.com.br/gp/product/8575224085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575224085&linkCode=as2&tag=livropython-20)
+* [Pro Git](https://git-scm.com/book/pt-br/v2) [(CC)](https://creativecommons.org/)
 
 ---
 
