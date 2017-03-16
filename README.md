@@ -37,7 +37,7 @@ https://github.com/bayandin/awesome-awesomeness
 	- [by @svaksha](https://github.com/svaksha/pythonidae)
 	- [by @vinta](https://github.com/vinta/awesome-python)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
-- [Big Data]
+- Big Data
 	- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 	- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 	- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
