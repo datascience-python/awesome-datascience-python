@@ -29,12 +29,20 @@ Passos iniciais:
 | :---: | :--- | :---: | 
 
 ## Awesome Lists
-- [Python](https://github.com/vinta/awesome-python)
+<!---
+https://github.com/bayandin/awesome-awesomeness
+-->
+- Python
+	- [by @kirang89](https://github.com/kirang89/pycrumbs)
+	- [by @svaksha](https://github.com/svaksha/pythonidae)
+	- [by @vinta](https://github.com/vinta/awesome-python)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Big Data]
+	- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
+	- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
+	- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 ## Books
