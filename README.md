@@ -1,9 +1,6 @@
 # Awesome datascience Python :snake: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-
----
-
 Passos iniciais:
 * [Telegram - Data Science & Python](https://t.me/datasciencepython)
 * [Como Fazer Perguntas Inteligentes](http://wiki.python.org.br/ComoFazerPerguntasInteligentes)
@@ -17,6 +14,7 @@ Passos iniciais:
 <!-- toc -->
 
   * [Articles](#articles)
+  * [Awesome Lists](#awesome-lists)
   * [Books](#books)
   * [Courses](#courses)
   * [Podcasts](#podcasts)
@@ -30,6 +28,14 @@ Passos iniciais:
 | Number | Name |  Author | 
 | :---: | :--- | :---: | 
 
+## Awesome Lists
+- [Python](https://github.com/vinta/awesome-python)
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [Streaming](https://github.com/manuzhang/awesome-streaming)
 ## Books
 | Number | Name |  Author | 
 | :---: | :--- | :---: | 
