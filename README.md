@@ -33,6 +33,7 @@ Passos iniciais:
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
