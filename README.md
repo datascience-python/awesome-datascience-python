@@ -48,7 +48,9 @@ https://github.com/bayandin/awesome-awesomeness
 	- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 	- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- Deep Learning
+	- [by @ChristosChristofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- [by @endymecy](https://github.com/endymecy/awesome-deeplearning-resources)
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 ## Books
