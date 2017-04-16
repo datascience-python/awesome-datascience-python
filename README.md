@@ -60,6 +60,8 @@ https://github.com/bayandin/awesome-awesomeness
 | 01 | [Use a Cabeça! Programação](http://www.altabooks.com.br/use-a-cabeca-programacao.html)| `Paul Barry` |
 | 02 | [Introdução à Programação com Python - 2ª Edição](https://www.amazon.com.br/gp/product/8575224085/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575224085&linkCode=as2&tag=livropython-20)| `Nilo Ney Coutinho Menezes` |
 | 03 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) [CC](https://creativecommons.org/)| `Al Sweigart` |
+| 04 | [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)| `Radim Řehůřek` |
+| 05 | [Learn Data Science](http://learnds.com/)| `Nitin Borwankar`|
 
 ## Courses
 | Number | Name | Platform  | Author | 
