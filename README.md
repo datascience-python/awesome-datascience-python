@@ -68,18 +68,19 @@ https://github.com/bayandin/awesome-awesomeness
 | Number | Name | Platform  | Author | 
 | :---: | :--- | :---: | :---: |
 | 01 | [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
-| 02 | [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)|[Udemy](https://www.udemy.com/)| `Jose Portilla` |
-| 03 | [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning)|[Udemy](https://www.udemy.com/)| `Kirill Eremenko` |
-| 04 | [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)|[Udemy](https://www.udemy.com/)| `Sundog Education by Frank Kane, Frank Kane` |
-| 05 | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)|[Coursera](https://www.coursera.org/)| `Christopher Brooks` |
-| 06 | [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)|[Coursera](https://www.coursera.org/)| `Kevyn Collins-Thompson` |
-| 07 | [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)|[Coursera](https://www.coursera.org/)| `Christopher Brooks` |
-| 08 | [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)|[Coursera](https://www.coursera.org/)| `V. G. Vinod Vydiswaran` |
-| 09 | [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)|[Coursera](https://www.coursera.org/)| `Daniel Romero` |
-| 10 | [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
-| 11 | [Machine Learning: Regression](https://www.coursera.org/learn/ml-foundations)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
-| 12 | [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
-| 13 | [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
+| 02 | [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)|[Coursera](https://www.coursera.org/)| `Daniel Egger, Paul Bendich` |
+| 03 | [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)|[Udemy](https://www.udemy.com/)| `Jose Portilla` |
+| 04 | [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning)|[Udemy](https://www.udemy.com/)| `Kirill Eremenko` |
+| 05 | [Data Science and Machine Learning with Python - Hands On!](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/)|[Udemy](https://www.udemy.com/)| `Sundog Education by Frank Kane, Frank Kane` |
+| 06 | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)|[Coursera](https://www.coursera.org/)| `Christopher Brooks` |
+| 07 | [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)|[Coursera](https://www.coursera.org/)| `Kevyn Collins-Thompson` |
+| 08 | [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)|[Coursera](https://www.coursera.org/)| `Christopher Brooks` |
+| 09 | [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)|[Coursera](https://www.coursera.org/)| `V. G. Vinod Vydiswaran` |
+| 10 | [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)|[Coursera](https://www.coursera.org/)| `Daniel Romero` |
+| 11 | [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
+| 12 | [Machine Learning: Regression](https://www.coursera.org/learn/ml-foundations)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
+| 13 | [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
+| 14 | [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
 
 ## Podcasts
 | Number | Name | Platform  | Author | 
