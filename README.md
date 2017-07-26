@@ -102,7 +102,7 @@ https://github.com/bayandin/awesome-awesomeness
 | :---: | :--- | :---: |
 |01|[Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel)| `Camila Laranjeira` |
 |02|[Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)| `Jagannath Rajagopal` |
-|03|[Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A)| `Nat and Lo` |
+|03|[Nat and Friends](https://www.youtube.com/NatAndFriends)| `Natalie Hammel` |
 |04|[Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)| `Siraj Raval` |
 
 ## Videos
