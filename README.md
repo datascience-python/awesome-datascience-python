@@ -81,6 +81,11 @@ https://github.com/bayandin/awesome-awesomeness
 | 12 | [Machine Learning: Regression](https://www.coursera.org/learn/ml-foundations)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
 | 13 | [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
 | 14 | [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)|[Coursera](https://www.coursera.org/)| `Carlos Guestrin, Emily Fox` |
+| 15 | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
+| 16 | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]()(Próxima sessão: Aug 15 — Sep 11.)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
+| 17 |[Structuring Machine Learning Projects]()(Próxima sessão: Aug 15 — Sep 4.)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
+| 18 | [Convolutional Neural Networks]()(Em Breve)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
+| 19 | [Sequence Models]()(Em Breve)|[Coursera](https://www.coursera.org/)| `Andrew Ng` |
 
 ## Podcasts
 | Number | Name | Platform  | Author | 
